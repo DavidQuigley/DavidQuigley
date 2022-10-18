@@ -1,16 +1,23 @@
-### Hi there 👋
+# David Quigley's laboratory
+GitHub hosts code associated with publications from our laboratory. For additional data, including processed variant calls from some of our studies, please visit the Quigley Lab website.
+ 
+## GitHub-hosted datasets
 
-<!--
-**DavidQuigley/DavidQuigley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Quigley et al. Cell 2018](https://pubmed.ncbi.nlm.nih.gov/30033370)
 
-Here are some ideas to get you started:
+We performed integrated analysis of DNA and RNA from 101 metastatic prostate cancer whole genomes. We show an enhancer region affects the Androgen Receptor in approximately 80% of mCRPC and demonstrated how DNA repair defects associated with loss of BRCA2, CDK12, and TP53 are associated with genomic scars of deletions, tandem duplication, and chromothripsis.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[GitHub repository](https://github.com/DavidQuigley/WCDT)
+ 
+### [Zhao et al. Nature Genetics 2020](https://pubmed.ncbi.nlm.nih.gov/32661416)
+
+We performed whole genome methylation analysis of 100 metastatic prostate tumors, extending our investigation of the cohort we published in (Quigley et al Cell 2018).  
+
+[GitHub repository](https://github.com/DavidQuigley/WCDT_WGBS)
+ 
+### [Sjöström et al. Cancer Research 2022](https://pubmed.ncbi.nlm.nih.gov/36251389)
+
+We performed 5-hydroxymethylcytosine analysis of 100 metastatic prostate tumors, extending our investigation of the cohort we published in (Quigley et al Cell 2018).  
+
+[GitHub repository](https://github.com/DavidQuigley/WCDT_5hmc)
+ 
