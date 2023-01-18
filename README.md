@@ -1,5 +1,7 @@
 # David Quigley's laboratory
 GitHub hosts code associated with publications from our laboratory. For additional data, including processed variant calls from some of our studies, please visit the Quigley Lab website.
+
+We encourage others to use these data in their research! **Please refer to the project authors as the West Coast Dream Team (WCDT) collaboration rather than individual researchers when describing the WCDT data in the text of a manuscript or abstract.**
  
 ## GitHub-hosted datasets
 
