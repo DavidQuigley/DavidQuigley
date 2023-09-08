@@ -22,4 +22,9 @@ We performed whole genome methylation analysis of 100 metastatic prostate tumors
 We performed 5-hydroxymethylcytosine analysis of 100 metastatic prostate tumors, extending our investigation of the cohort we published in (Quigley et al Cell 2018).  
 
 [GitHub repository](https://github.com/DavidQuigley/WCDT_5hmc)
- 
+
+### [Lundberg et al. Cancer Research 2023](https://pubmed.ncbi.nlm.nih.gov/37289025)
+
+We used unbiased analysis of 134 metastatic tumor biopsies from the West Coast Dream Team collaboration to dig into the transcription factors that drive different subtypes of therapy-resistance disease.  
+
+[GitHub repository](https://github.com/DavidQuigley/WCDT_subtypes)
