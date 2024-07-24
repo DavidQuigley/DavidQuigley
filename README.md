@@ -1,5 +1,6 @@
 # David Quigley's laboratory
-GitHub hosts code associated with publications from our laboratory. For additional data, including processed variant calls from some of our studies, please visit the [Quigley Lab website](https://quigleylab.ucsf.edu).
+
+The Quigley Lab studies tumor genomes to understand how urological cancers develop and respond to therapy. Our lab is part of the [Department of Urology](https://urology.ucsf.edu/) and the [Helen Diller Family Comprehensive Cancer Center](https://cancer.ucsf.edu) at the [University of California, San Francisco](https://ucsf.edu). Our lab collaborates with the West Coast Dream Team consortium to define the landscape of of metastatic prostate cancer. GitHub hosts code associated with publications from our laboratory. For additional data, including processed variant calls from some of our studies, please visit the [Quigley Lab website](https://quigleylab.ucsf.edu).
 
 We encourage others to use these data in their research! **Please refer to the project authors as the West Coast Dream Team (WCDT) collaboration rather than individual researchers when describing the WCDT data in the text of a manuscript or abstract.**
  
